@@ -71,6 +71,7 @@
 		1B056BE3284AAFDF00822220 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8E617D3E2874F41700331667 /* Assets.xcassets */,
 				1B056BD3284AAEA200822220 /* ContentView.swift */,
 			);
 			path = View;
@@ -79,7 +80,6 @@
 		8E617D3D2874F41700331667 /* Resouces */ = {
 			isa = PBXGroup;
 			children = (
-				8E617D3E2874F41700331667 /* Assets.xcassets */,
 			);
 			path = Resouces;
 			sourceTree = "<group>";
